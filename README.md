@@ -82,8 +82,7 @@
 <img style="padding:2px" src="https://img.shields.io/badge/precommit-FAB040.svg?style=for-the-badge&logo=pre-commit&logoColor=black"/>
 <img style="padding:2px" src="https://img.shields.io/badge/Poetry-60A5FA.svg?style=for-the-badge&logo=Poetry&logoColor=white"/>
 
-<!-- Certification section-->
-<h2 align="left">My Certifications <img src = "https://cdn3.emoji.gg/emojis/2408_certified.gif" width = 30px></h2>
+<h3 align="left">Certifications</h3>
 <p align="center">
   <a href="https://www.credly.com/badges/81a3461c-c7d4-4fbb-9ef8-0c50f882c44f/public_url"><img src = "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width = 150px></a>
 </p>
