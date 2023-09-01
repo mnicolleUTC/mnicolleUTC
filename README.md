@@ -1,7 +1,7 @@
 <!-- Typing section -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3998&pause=800&color=000000&center=true&vCenter=true&width=570&lines=Data+Analyst+and+Data+Engineer;5+years+of+coding+experience;Specialized+in+Python+and+SQL;Always+learning+new+things;AWS+Cloud+Architect+Associate+(SAA-C03)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3998&pause=800&color=000000&center=true&vCenter=true&width=570&lines=Data+Analyst+and+Data+Engineer;5+years+of+coding+experience;Specialized+in+Python+and+SQL;Always+learning+new+things;AWS+Cloud+Architect+Associate" alt="Typing SVG" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
