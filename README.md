@@ -1,7 +1,7 @@
 <!-- Typing section -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3998&pause=800&color=000000&center=true&vCenter=true&width=570&lines=Data+Analyst+and+Data+Engineer;5+years+of+coding+experience;Specialized+in+Python+and+SQL;Always+learning+new+things;AWS+Cloud+Architect+Associate" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3998&pause=800&color=000000&center=true&vCenter=true&width=570&lines=Data+Analyst+and+Data+Engineer;5+years+of+coding+experience;Specialized+in+Python+and+SQL;Always+learning+new+things;AWS+Cloud+Architect+Associate;Kubernetes+Administrator+(CKA)" alt="Typing SVG" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
@@ -26,7 +26,7 @@
 - 👨‍💻 By day, I serve as a Freelance Consultant on Data Project 🦾
 - 🥷 By night, I'm currenlty working on Carbon Bombs project 💣 
 - 🗣 I'm a native French speaker 🇫🇷, and I am also proficient in professional communications in English 🇬🇧 and Spanish 🇪🇸
-- 🌱 I’m currently learning Kubernetes in order to pass CKA certification 🏅
+- 🌱 I deepen my knowledge in Kubernetes in order to pass CKS certification 🏅
 - 👯 I’m looking to collaborate on open source projects with a positive impact on our environnement 🌎
 - 🥰 I highly value teammates who utilize the pre-commit tool in their workflow. 🛠
 - 🤬 I will never trust someone who doesn't write SQL queries without uppercase 🔠
@@ -85,5 +85,8 @@
 <h3 align="left">Certifications</h3>
 <p align="center">
   <a href="https://www.credly.com/badges/81a3461c-c7d4-4fbb-9ef8-0c50f882c44f/public_url"><img src = "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width = 150px></a>
+  <a href="https://www.credly.com/badges/7682c913-5355-4cfc-866f-d6b64035f704/public_url"><img src = 
+  "https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/twitter_thumb_201604_cka_from_cncfsite__281_29.png" 
+  width = 165px></a>
 </p>
 
